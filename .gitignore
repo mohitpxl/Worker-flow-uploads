@@ -1,0 +1,10 @@
+# Gradle & Android build files
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+local.properties
+.idea/
+*.iml
+.kotlin/
